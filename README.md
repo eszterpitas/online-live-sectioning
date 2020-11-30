@@ -6,9 +6,6 @@ HTML elemek mára: `header, footer, nav, aside, main, article, section`
 - Ha a megfelelő HTML elemet használod a szöveged szekciózására, a jobb oldali képet kell kapnod végeredményként
 - Ma nem kell a CSS-hez nyúlnod!
 
-
-![html5doctor](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
-
 | Tartalom       | Design        |
 | ------------- | ------------- |
 | ``` logo About me “Narrativity is unattainable,” says Sartre; however, according to Wilson, it is not so much narrativity that is unattainable, but rather the defining characteristic, and eventually the stasis, of narrativity. made with 💛 by {your name}```      |  ```***********************************``` ![exercise 1](images/layout1.png) |
